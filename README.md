@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/leocorreia92"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leocorreia92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocorreia92&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=leocorreia92&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img weidth="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leocorreia92&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
   ##
